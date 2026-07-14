@@ -1,13 +1,24 @@
-## Hello there 👋
+## Hi, I'm Bartholomew 👋
 
-- 🔭 I’m currently working on [Hunt AI](https://github.com/Infinit3i/hunt-ai)
-- 🌱 I’m currently learning Rust, Malware Development, Malware Analysis.
-- 💬 Ask me about detection engineer, malware analysis or malware development.
-- 📫 How to reach me: matthewiver@protonmail.com
-- ⚡ Fun fact: I love programming and hacking.
+I'm just a random person on the internet passionate about cybersecurity
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanParks&theme=dracula&show_icons=true" />
-</a>
+## 🛡️ What I Do
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanParks&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+- **Defense**: Blue team detection engineering, threat hunting, and malware analysis
+- **Offense**: Working toward the CPTS (Certified Penetration Testing Specialist) certification on Hack The Box, expanding into offensive security to complement my defensive foundation
+
+## 🔧 Currently Building
+
+- **Knights of the Round Table** — a Rust (axum/htmx/SQLite) web app that maps Arthurian knights to distinct offensive and defensive security domains — a personal effort to formalize skills across both disciplines
+- An HTB workflow stack in Claude Code: a hub-and-spoke subagent architecture (recon-enum, web-exploit, foothold, privesc, notekeeper) with custom slash commands and logging hooks
+- A self-built ESXi homelab for hands-on networking, malware development/analysis, and red-teaming
+
+## 🧰 Tools & Interests
+
+`Elastic Stack` `Splunk` `Security Onion` `Sysmon` `MITRE ATT&CK` `Metasploit` `Rust`
+
+Also exploring local LLMs (Ollama) and agentic tooling for security research workflows.
+
+## 📫 Reach Me
+
+<!-- juanfparks@pm.me -->
