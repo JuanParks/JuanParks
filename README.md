@@ -21,4 +21,4 @@ Also exploring local LLMs (Ollama) and agentic tooling for security research wor
 
 ## 📫 Reach Me
 
-<!-- juanfparks@pm.me -->
+juanfparks@pm.me
